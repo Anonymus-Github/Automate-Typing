@@ -28,7 +28,7 @@ Finally install PyAutoGUI using the below command
     
 ## Run Locally
 
-Copy the code from main.py into your IDE. Place the code that you want to type in variable '''code_to_type''' of main.py. Look at an example below
+Copy the code from main.py into your IDE. Place the code that you want to type in variable ```code_to_type``` of main.py. Look at an example below
 ```
 code_to_type = """
 def print_greetings():
