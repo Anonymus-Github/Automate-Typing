@@ -28,14 +28,16 @@ Finally install PyAutoGUI using the below command
     
 ## Run Locally
 
-Copy the entire code from here, put your code (the one you need to paste in the online editor) in the varibale
+Copy the code from main.py into your IDE. Place the code that you want to type in variable '''code_to_type''' of main.py. Look at an example below
 ```
-s="""
+code_to_type = """
+def print_greetings():
+    print("Hello World")```
 
-   Your Code here
-
+print_greetings()
 """
 ```
-Run the code in your editor.
 
-Then move to online editor and place the wrirting cursor in the online editor.Your code now gets pasted in the online editor.
+set the variable ```wait_time``` (in seconds). This is time before auto typing starts.
+Run the code in your editor.
+Then place your caret(text cursor) in the text box that you want the code to be auto typed.
