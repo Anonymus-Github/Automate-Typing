@@ -10,9 +10,9 @@ Code in your editor and then automate the typing in the online editor using our 
 
 
 
-## Dependencies
+## Requirements
 
-A code editor of our choice, in case you dont have it download [PyCharm](https://www.jetbrains.com/pycharm/).
+A code editor of your choice, in case you dont have it download [PyCharm](https://www.jetbrains.com/pycharm/).
 
 You need to have python in our device,in case you dont have it download python from [here](https://www.python.org/downloads/)
 
