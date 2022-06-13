@@ -41,3 +41,8 @@ print_greetings()
 set the variable ```wait_time``` (in seconds). This is time before auto typing starts.
 
 Run the code in your editor and place your caret(text cursor) in the text box that you want the code to be auto typed within ```wait_time```.
+
+
+
+**Note:**
+- This is just for educational purposes
