@@ -38,11 +38,3 @@ s="""
 Run the code in your editor.
 
 Then move to online editor and place the wrirting cursor in the online editor.Your code now gets pasted in the online editor.
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
