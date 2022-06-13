@@ -45,4 +45,5 @@ Run the code in your editor and place your caret(text cursor) in the text box th
 
 
 **Note:**
-- This is just for educational purposes
+- Dont try to remove caret from the text box because this code types the ```code_to_type``` until it is finished i.e., this can't be stopped in between.
+- This is just for educational purposes.
