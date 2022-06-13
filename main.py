@@ -18,8 +18,6 @@ def check_a(i, s, t):
     if sc != tc or sc['c'] >= 1 or tc['c'] >= 1:
         return (False, i)
     return (True, i)
-
-
 def check_c(i, s, t):
     n = len(s)
     sc = {'a':0, 'b':0, 'c':0}
@@ -35,13 +33,10 @@ def check_c(i, s, t):
     if sc != tc or sc['a'] >= 1 or tc['a'] >= 1:
         return (False, i)
     return (True, i)
-
-
 def solve():
     n = int(input())
     s = input()
     t = input()
-
     i = 0
     while i<n:
         if s[i] == t[i]:
@@ -56,7 +51,6 @@ def solve():
                 return
             i = temp[1]
     print("YES")
-
 for _ in range(int(input())):
     solve()
 """
@@ -79,4 +73,5 @@ for line in lines:
     if line != "":
         pyautogui.typewrite(line, interval=time_interval)
         avoid_auto_complete()
-    pyautogui.press('enter')
+    else:
+        pyautogui.press('enter')
