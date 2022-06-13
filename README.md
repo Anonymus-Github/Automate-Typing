@@ -32,7 +32,7 @@ Copy the code from main.py into your IDE. Place the code that you want to type i
 ```
 code_to_type = """
 def print_greetings():
-    print("Hello World")```
+    print("Hello World")
 
 print_greetings()
 """
