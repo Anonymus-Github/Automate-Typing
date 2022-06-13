@@ -31,7 +31,7 @@ Finally install PyAutoGUI using the below command
 Copy the entire code from here, put your code (the one you need to paste in the online editor) in the varibale
 ```
 s="""
-
+   Your Code here
 
 """
 ```
