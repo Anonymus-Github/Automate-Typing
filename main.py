@@ -65,7 +65,7 @@ time_interval = 0.00001
 
 def avoid_auto_complete():
     '''Hotkey to avoid auto completion and indentation'''
-    pyautogui.hotkey('space', 'backspace', 'enter', 'space', 'ctrl', 'left')
+    pyautogui.hotkey('esc', 'space', 'backspace', 'enter', 'space', 'ctrl', 'left')
 
 
 lines = list(code_to_type.split("\n"))
