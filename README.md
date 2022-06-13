@@ -46,4 +46,5 @@ Run the code in your editor and place your caret(text cursor) in the text box th
 
 **Note:**
 - Dont try to remove caret from the text box because this code types the ```code_to_type``` until it is finished i.e., this can't be stopped in between.
+- This code is is written keeping in mind some editors(specifically editors with auto indentation). If this code isn't working in your case, please raise an issue.
 - This is for educational purposes only, we don't encourage any malpractices.
